@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="AutomationProject">
+
+<listeners>
+
+	<listener class-name="com.AutomationProject.utilities.Reporting"/>
+	
+</listeners>
+<test name="AutomationProject Test">
+<classes>
+
+<class name="com.AutomationProject.tests.TestCases"/>
+
+</classes>
+
+</test>
+</suite>

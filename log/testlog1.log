@@ -1,0 +1,44 @@
+2021-09-11 17:22:25,693 [main] INFO AutomationProject - Landing to Contact Screen
+2021-09-11 17:22:29,743 [main] INFO AutomationProject - Verified All the error messages for Mandatory Fields
+2021-09-11 17:22:32,741 [main] INFO AutomationProject - Verified that the error messages are not displayed After entering the required details
+2021-09-11 17:49:14,278 [TestNG-tests-1] INFO AutomationProject - Landing to Contact Screen
+2021-09-11 17:49:15,887 [TestNG-tests-1] INFO AutomationProject - Verified All the error messages for Mandatory Fields
+2021-09-11 17:49:16,611 [TestNG-tests-1] INFO AutomationProject - Verified that the error messages are not displayed After entering the required details
+2021-09-11 17:49:25,888 [TestNG-tests-1] INFO AutomationProject - Verified that the Submission message is displayed
+2021-09-11 17:49:48,942 [TestNG-tests-1] INFO AutomationProject - Verified that the Submission message is displayed
+2021-09-11 17:50:01,546 [TestNG-tests-1] INFO AutomationProject - Verified that the Submission message is displayed
+2021-09-11 17:50:15,238 [TestNG-tests-1] INFO AutomationProject - Verified that the Submission message is displayed
+2021-09-11 17:50:32,930 [TestNG-tests-1] INFO AutomationProject - Verified that the Submission message is displayed
+2021-09-11 17:50:39,958 [TestNG-tests-1] INFO AutomationProject - Verified the Total Number of Products Added into cart
+2021-09-11 17:50:49,882 [TestNG-tests-1] INFO AutomationProject - Verified the OverAll Total Amount is matching with the OverAll SubTotal Amount of Products in cart
+2021-09-11 18:43:31,195 [main] INFO AutomationProject - Landing to Contact Screen
+2021-09-11 18:45:40,394 [main] INFO AutomationProject - Landing to Contact Screen
+2021-09-11 18:47:11,841 [main] INFO AutomationProject - Landing to Contact Screen
+2021-09-11 18:48:15,778 [main] INFO AutomationProject - Landing to Contact Screen
+2021-09-11 18:50:58,075 [main] INFO AutomationProject - Landing to Contact Screen
+2021-09-11 18:53:09,915 [main] INFO AutomationProject - Landing to Contact Screen
+2021-09-11 18:53:50,612 [main] INFO AutomationProject - Landing to Contact Screen
+2021-09-11 18:53:53,268 [main] INFO AutomationProject - Verified All the error messages for Mandatory Fields
+2021-09-11 18:56:52,262 [main] INFO AutomationProject - Landing to Contact Screen
+2021-09-11 18:56:54,369 [main] INFO AutomationProject - Verified All the error messages for Mandatory Fields
+2021-09-11 18:56:55,426 [main] INFO AutomationProject - Verified that the error messages are not displayed After entering the required details
+2021-09-11 18:59:15,681 [main] INFO AutomationProject - Landing to Contact Screen
+2021-09-11 19:06:38,114 [main] INFO AutomationProject - Landing to Contact Screen
+2021-09-11 19:06:41,108 [main] INFO AutomationProject - Verified All the error messages for Mandatory Fields
+2021-09-11 19:06:42,643 [main] INFO AutomationProject - Verified that the error messages are not displayed After entering the required details
+2021-09-11 19:15:41,986 [main] INFO AutomationProject - Landing to Contact Screen
+2021-09-11 19:15:43,328 [main] INFO AutomationProject - Verified All the error messages for Mandatory Fields
+2021-09-11 19:15:43,992 [main] INFO AutomationProject - Verified that the error messages are not displayed After entering the required details
+2021-09-11 19:18:23,679 [main] INFO AutomationProject - Landing to Contact Screen
+2021-09-11 19:18:25,004 [main] INFO AutomationProject - Verified All the error messages for Mandatory Fields
+2021-09-11 19:18:25,647 [main] INFO AutomationProject - Verified that the error messages are not displayed After entering the required details
+2021-09-11 19:21:52,409 [main] INFO AutomationProject - Landing to Contact Screen
+2021-09-11 19:21:53,774 [main] INFO AutomationProject - Verified All the error messages for Mandatory Fields
+2021-09-11 19:21:54,497 [main] INFO AutomationProject - Verified that the error messages are not displayed After entering the required details
+2021-09-11 19:22:02,546 [main] INFO AutomationProject - Verified that the Submission message is displayed
+2021-09-11 19:22:15,898 [main] INFO AutomationProject - Verified that the Submission message is displayed
+2021-09-11 19:22:24,707 [main] INFO AutomationProject - Verified that the Submission message is displayed
+2021-09-11 19:22:33,700 [main] INFO AutomationProject - Verified that the Submission message is displayed
+2021-09-11 19:22:45,726 [main] INFO AutomationProject - Verified that the Submission message is displayed
+2021-09-11 19:22:55,894 [main] INFO AutomationProject - Verified the Total Number of Products Added into cart
+2021-09-11 19:23:15,291 [main] INFO AutomationProject - Verified the OverAll Total Amount is matching with the OverAll SubTotal Amount of Products in cart
