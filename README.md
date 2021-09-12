@@ -1,6 +1,6 @@
 # PlanIT
 
-Hi Tehere.....
+Hi There.....
 
 I have implemented a TestNG based Java project to complete the home test with Page Factory, Reusable components & extended reports. Also i have used maven as a build tool for the CI/CD approach.
 
