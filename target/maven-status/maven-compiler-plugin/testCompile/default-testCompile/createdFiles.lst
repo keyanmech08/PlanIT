@@ -1,0 +1,8 @@
+com\AutomationProject\pageObjects\ShopPage.class
+com\AutomationProject\utilities\Reporting.class
+com\AutomationProject\tests\baseSetUp.class
+com\AutomationProject\pageObjects\CartPage.class
+com\AutomationProject\pageObjects\Contacts.class
+com\AutomationProject\pageObjects\HomePage.class
+com\AutomationProject\tests\TestCases.class
+com\AutomationProject\utilities\reusableFunctions.class

@@ -1,5 +1,13 @@
 # PlanIT
 
+Hi Tehere.....
+
+I have implemented a TestNG based Java project to complete the home test with Page Factory, Reusable components & extended reports. Also i have used maven as a build tool for the CI/CD approach.
+
+In order to run the tests from commandline, we need to go to the project directory and type mvn clean install from command promt. Thanks !
+
+Also please find my below thoughts for each questions.
+
 Questions
 1. What other possible scenario’s would you suggest for testing the Jupiter Toys application?
     SCN_001: Login possitive & negative scenarios
